@@ -2,3 +2,7 @@ git init
 git status
 time: 11:25PM
 time: 11:27PM
+git branch
+time: 11:15PM
+time: 11:18PM
+time: 11:20PM
